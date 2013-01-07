@@ -147,3 +147,18 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/libxml.so:system/lib/libxml.so \
     vendor/lge/geehrc_sp/proprietary/lib/lib_dlb_msd.so:system/lib/lib_dlb_msd.so \
     vendor/lge/geehrc_sp/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so
+
+# FIXME: This stuff shouldn't be used
+PRODUCT_COPY_FILES += \
+    vendor/lge/geehrc_sp/proprietary/bin/vold:system/bin/vold \
+    vendor/lge/geehrc_sp/proprietary/lib/libgenlock.so:system/lib/libgenlock.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libhwcexternal.so:system/lib/libhwcexternal.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libhwcservice.so:system/lib/libhwcservice.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libmemalloc.so:system/lib/libmemalloc.so \
+    vendor/lge/geehrc_sp/proprietary/lib/liboverlay.so:system/lib/liboverlay.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libqdutils.so:system/lib/libqdutils.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libtilerenderer.so:system/lib/libtilerenderer.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
+    vendor/lge/geehrc_sp/proprietary/lib/hw/copybit.msm8960.so:system/lib/hw/copybit.msm8960.so \
+    vendor/lge/geehrc_sp/proprietary/lib/hw/gralloc.msm8960.so:system/lib/hw/gralloc.msm8960.so \
+    vendor/lge/geehrc_sp/proprietary/lib/hw/hwcomposer.msm8960.so:system/lib/hw/hwcomposer.msm8960.so \
