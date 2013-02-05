@@ -27,6 +27,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/bin/ks:system/bin/ks \
     vendor/lge/geehrc_sp/proprietary/bin/mm-audio-send-cal:system/bin/mm-audio-send-cal \
     vendor/lge/geehrc_sp/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
+    vendor/lge/geehrc_sp/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/geehrc_sp/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/lge/geehrc_sp/proprietary/bin/nl_listener:system/bin/nl_listener \
     vendor/lge/geehrc_sp/proprietary/bin/PktRspTest:system/bin/PktRspTest \
@@ -43,6 +44,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/bin/sns_dsps_tc0001:system/bin/sns_dsps_tc0001 \
     vendor/lge/geehrc_sp/proprietary/bin/sns_smr_loopback_test:system/bin/sns_smr_loopback_test \
     vendor/lge/geehrc_sp/proprietary/bin/test_diag:system/bin/test_diag \
+    vendor/lge/geehrc_sp/proprietary/bin/thermald:system/bin/thermald \
     vendor/lge/geehrc_sp/proprietary/bin/usbhub:system/bin/usbhub \
     vendor/lge/geehrc_sp/proprietary/bin/usbhub_init:system/bin/usbhub_init \
     vendor/lge/geehrc_sp/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
