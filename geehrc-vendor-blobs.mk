@@ -16,7 +16,11 @@
 
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES += \
-    vendor/lge/geehrc_sp/proprietary/lib/libacdbloader.so:obj/lib/libacdbloader.so
+    vendor/lge/geehrc_sp/proprietary/lib/libacdbloader.so:obj/lib/libacdbloader.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libmmstillomx.so:obj/lib/libmmstillomx.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libimage-jpeg-enc-omx-comp.so:obj/lib/libimage-jpeg-enc-omx-comp.so \
+    vendor/lge/geehrc_sp/proprietary/lib/liboemcamera.so:obj/lib/liboemcamera.so 
 
 # All the blobs necessary for geehrc
 PRODUCT_COPY_FILES += \
