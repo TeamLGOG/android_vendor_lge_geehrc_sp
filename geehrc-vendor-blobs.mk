@@ -70,7 +70,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
     vendor/lge/geehrc_sp/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/camera.geehrc.so:system/lib/hw/camera.geehrc.so \
-    vendor/lge/geehrc_sp/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
     vendor/lge/geehrc_sp/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/lge/geehrc_sp/proprietary/lib/libAKM.so:system/lib/libAKM.so \
