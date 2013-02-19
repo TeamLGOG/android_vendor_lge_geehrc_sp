@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/lge/geehrc_sp/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
     vendor/lge/geehrc_sp/proprietary/bin/efsks:system/bin/efsks \
-    vendor/lge/geehrc_sp/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/lge/geehrc_sp/proprietary/bin/ks:system/bin/ks \
     vendor/lge/geehrc_sp/proprietary/bin/mm-audio-send-cal:system/bin/mm-audio-send-cal \
     vendor/lge/geehrc_sp/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
