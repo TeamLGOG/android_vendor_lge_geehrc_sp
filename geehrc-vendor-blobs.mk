@@ -71,6 +71,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
     vendor/lge/geehrc_sp/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/camera.geehrc.so:system/lib/hw/camera.geehrc.so \
+    vendor/lge/geehrc_sp/proprietary/lib/hw/nfc.default.so:system/lib/hw/nfc.default.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
     vendor/lge/geehrc_sp/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/lge/geehrc_sp/proprietary/lib/libAKM.so:system/lib/libAKM.so \
@@ -181,7 +182,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/libxml.so:system/lib/libxml.so \
     vendor/lge/geehrc_sp/proprietary/lib/lib_dlb_msd.so:system/lib/lib_dlb_msd.so \
     vendor/lge/geehrc_sp/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
-    vendor/lge/geehrc_sp/proprietary/vendor/lib/hw/nfc.default.so:system/vendor/lib/hw/nfc.default.so \
     vendor/lge/geehrc_sp/proprietary/vendor/lib//hw/power.qcom.so:system/vendor/lib/hw/power.qcom.so \
     vendor/lge/geehrc_sp/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/lge/geehrc_sp/proprietary/etc/firmware/wcnss.b00:system/etc/firmware/wcnss.b00 \
