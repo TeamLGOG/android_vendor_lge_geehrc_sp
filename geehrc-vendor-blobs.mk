@@ -183,7 +183,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     vendor/lge/geehrc_sp/proprietary/vendor/lib//hw/power.qcom.so:system/vendor/lib/hw/power.qcom.so \
     vendor/lge/geehrc_sp/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
-    vendor/lge/geehrc_sp/proprietary/vendor/lib/libpn544_fw.so:system/vendor/lib/libpn544_fw.so \
     vendor/lge/geehrc_sp/proprietary/etc/firmware/wcnss.b00:system/etc/firmware/wcnss.b00 \
     vendor/lge/geehrc_sp/proprietary/etc/firmware/wcnss.b01:system/etc/firmware/wcnss.b01 \
     vendor/lge/geehrc_sp/proprietary/etc/firmware/wcnss.b02:system/etc/firmware/wcnss.b02 \
