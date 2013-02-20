@@ -181,6 +181,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/libxml.so:system/lib/libxml.so \
     vendor/lge/geehrc_sp/proprietary/lib/lib_dlb_msd.so:system/lib/lib_dlb_msd.so \
     vendor/lge/geehrc_sp/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
+    vendor/lge/geehrc_sp/proprietary/vendor/lib//hw/nfc.default.so:system/vendor/lib/hw/nfc.default.so \
     vendor/lge/geehrc_sp/proprietary/vendor/lib//hw/power.qcom.so:system/vendor/lib/hw/power.qcom.so \
     vendor/lge/geehrc_sp/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/lge/geehrc_sp/proprietary/etc/firmware/wcnss.b00:system/etc/firmware/wcnss.b00 \
