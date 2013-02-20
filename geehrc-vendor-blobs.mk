@@ -82,6 +82,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
     vendor/lge/geehrc_sp/proprietary/lib/libc2d2_a3xx.so:system/lib/libc2d2_a3xx.so \
     vendor/lge/geehrc_sp/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libcamera_fast_af.so:system/lib/libcamera_fast_af.so \
     vendor/lge/geehrc_sp/proprietary/lib/libchromatix_imx074_default_video.so:system/lib/libchromatix_imx074_default_video.so \
     vendor/lge/geehrc_sp/proprietary/lib/libchromatix_imx074_preview.so:system/lib/libchromatix_imx074_preview.so \
     vendor/lge/geehrc_sp/proprietary/lib/libchromatix_imx074_video_hd.so:system/lib/libchromatix_imx074_video_hd.so \
