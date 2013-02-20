@@ -16,6 +16,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/hw/camera.geehrc.so:obj/lib/hw/camera.geehrc.so \
+    vendor/lge/geehrc_sp/proprietary/lib/hw/gestures.msm8960.so:obj/lib/hw/gestures.msm8960.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/nfc.default.so:obj/lib/hw/nfc.default.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/sensors.msm8960.so:obj/lib/hw/sensors.msm8960.so
 
@@ -71,6 +72,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
     vendor/lge/geehrc_sp/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/camera.geehrc.so:system/lib/hw/camera.geehrc.so \
+    vendor/lge/geehrc_sp/proprietary/lib/hw/gestures.msm8960.so:system/lib/hw/gestures.msm8960.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/nfc.default.so:system/lib/hw/nfc.default.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
     vendor/lge/geehrc_sp/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
@@ -126,6 +128,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/libDxHdcp.so:system/lib/libDxHdcp.so \
     vendor/lge/geehrc_sp/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/lge/geehrc_sp/proprietary/lib/libgsl.so:system/lib/libgsl.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libgestureservice.so:system/lib/libgestureservice.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libgesture_client.so:system/lib/libgesture_client.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libgesture-core.so:system/lib/libgesture-core.so \
     vendor/lge/geehrc_sp/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/lge/geehrc_sp/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/lge/geehrc_sp/proprietary/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
@@ -143,6 +148,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/libmmcamera_statsproc31.so:system/lib/libmmcamera_statsproc31.so \
     vendor/lge/geehrc_sp/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
     vendor/lge/geehrc_sp/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libmmgestures-linux.so:system/lib/libmmgestures-linux.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libmmgesture_services.so:system/lib/libmmgesture_services.so \
     vendor/lge/geehrc_sp/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/lge/geehrc_sp/proprietary/lib/libmmjps.so:system/lib/libmmjps.so \
     vendor/lge/geehrc_sp/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
