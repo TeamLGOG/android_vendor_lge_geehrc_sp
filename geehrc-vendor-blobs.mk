@@ -79,7 +79,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
     vendor/lge/geehrc_sp/proprietary/lib/libc2d2_a3xx.so:system/lib/libc2d2_a3xx.so \
     vendor/lge/geehrc_sp/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
-    vendor/lge/geehrc_sp/proprietary/lib/libcamera_fast_af.so:system/lib/libcamera_fast_af.so \
     vendor/lge/geehrc_sp/proprietary/lib/libchromatix_imx074_default_video.so:system/lib/libchromatix_imx074_default_video.so \
     vendor/lge/geehrc_sp/proprietary/lib/libchromatix_imx074_preview.so:system/lib/libchromatix_imx074_preview.so \
     vendor/lge/geehrc_sp/proprietary/lib/libchromatix_imx074_video_hd.so:system/lib/libchromatix_imx074_video_hd.so \
@@ -130,9 +129,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
     vendor/lge/geehrc_sp/proprietary/lib/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
     vendor/lge/geehrc_sp/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
-    vendor/lge/geehrc_sp/proprietary/lib/libloc_adapter.so:system/lib/libloc_adapter.so \
     vendor/lge/geehrc_sp/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
-    vendor/lge/geehrc_sp/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/lge/geehrc_sp/proprietary/lib/libmercury.so:system/lib/libmercury.so \
     vendor/lge/geehrc_sp/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
     vendor/lge/geehrc_sp/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
