@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://bitbucket.org/codefirex/vendor_lge_geeb_att_us
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "jb-devel"]
+	remote = origin
+	merge = refs/heads/jb-devel
