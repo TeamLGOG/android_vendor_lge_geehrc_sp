@@ -17,6 +17,7 @@
 PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/hw/camera.geehrc.so:obj/lib/hw/camera.geehrc.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/gestures.msm8960.so:obj/lib/hw/gestures.msm8960.so \
+    vendor/lge/geehrc_sp/proprietary/lib/hw/lights.msm8960.so:obj/lib/hw/lights.msm8960.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/nfc.default.so:obj/lib/hw/nfc.default.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/sensors.msm8960.so:obj/lib/hw/sensors.msm8960.so
 
@@ -73,6 +74,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/camera.geehrc.so:system/lib/hw/camera.geehrc.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/gestures.msm8960.so:system/lib/hw/gestures.msm8960.so \
+    vendor/lge/geehrc_sp/proprietary/lib/hw/lights.msm8960.so:system/lib/hw/lights.msm8960.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/nfc.default.so:system/lib/hw/nfc.default.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
     vendor/lge/geehrc_sp/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
