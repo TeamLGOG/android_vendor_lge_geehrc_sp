@@ -71,7 +71,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/lge/geeb_att_us/proprietary/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
     vendor/lge/geeb_att_us/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
-    vendor/lge/geeb_att_us/proprietary/lib/hw/camera.geehrc.so:system/lib/hw/camera.geehrc.so \
+    vendor/lge/geeb_att_us/proprietary/lib/hw/camera.geeb.so:system/lib/hw/camera.geeb.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/gestures.msm8960.so:system/lib/hw/gestures.msm8960.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/nfc.default.so:system/lib/hw/nfc.default.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
