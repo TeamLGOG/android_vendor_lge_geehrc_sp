@@ -42,6 +42,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/bin/radish:system/bin/radish \
     vendor/lge/geeb_att_us/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/geeb_att_us/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
+    vendor/lge/geeb_att_us/proprietary/bin/sns_dsps_tc0001:system/bin/sns_dsps_tc0001 \
+    vendor/lge/geeb_att_us/proprietary/bin/sns_cm_conc_test:system/bin/sns_cm_conc_test \
     vendor/lge/geeb_att_us/proprietary/bin/thermald:system/bin/thermald \
     vendor/lge/geeb_att_us/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lge/geeb_att_us/proprietary/bin/usbhub:system/bin/usbhub \
