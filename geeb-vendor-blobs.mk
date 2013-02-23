@@ -16,7 +16,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/hw/camera.geeb.so:obj/lib/hw/camera.geeb.so \
-    vendor/lge/geeb_att_us/proprietary/lib/hw/gestures.msm8960.so:obj/lib/hw/gestures.msm8960.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/lights.msm8960.so:obj/lib/hw/lights.msm8960.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/nfc.default.so:obj/lib/hw/nfc.default.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/sensors.msm8960.so:obj/lib/hw/sensors.msm8960.so
@@ -76,7 +75,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
     vendor/lge/geeb_att_us/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/camera.geeb.so:system/lib/hw/camera.geeb.so \
-    vendor/lge/geeb_att_us/proprietary/lib/hw/gestures.msm8960.so:system/lib/hw/gestures.msm8960.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/lights.msm8960.so:system/lib/hw/lights.msm8960.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/nfc.default.so:system/lib/hw/nfc.default.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
@@ -133,9 +131,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/libDxHdcp.so:system/lib/libDxHdcp.so \
     vendor/lge/geeb_att_us/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/lge/geeb_att_us/proprietary/lib/libgsl.so:system/lib/libgsl.so \
-    vendor/lge/geeb_att_us/proprietary/lib/libgestureservice.so:system/lib/libgestureservice.so \
-    vendor/lge/geeb_att_us/proprietary/lib/libgesture_client.so:system/lib/libgesture_client.so \
-    vendor/lge/geeb_att_us/proprietary/lib/libgesture-core.so:system/lib/libgesture-core.so \
     vendor/lge/geeb_att_us/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/lge/geeb_att_us/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/lge/geeb_att_us/proprietary/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
@@ -153,8 +148,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/libmmcamera_statsproc31.so:system/lib/libmmcamera_statsproc31.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
-    vendor/lge/geeb_att_us/proprietary/lib/libmmgestures-linux.so:system/lib/libmmgestures-linux.so \
-    vendor/lge/geeb_att_us/proprietary/lib/libmmgesture_services.so:system/lib/libmmgesture_services.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmjps.so:system/lib/libmmjps.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
