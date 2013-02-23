@@ -29,6 +29,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/lge/geeb_att_us/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
     vendor/lge/geeb_att_us/proprietary/bin/efsks:system/bin/efsks \
+    vendor/lge/geeb_att_us/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/lge/geeb_att_us/proprietary/bin/ks:system/bin/ks \
     vendor/lge/geeb_att_us/proprietary/bin/mm-audio-send-cal:system/bin/mm-audio-send-cal \
     vendor/lge/geeb_att_us/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
