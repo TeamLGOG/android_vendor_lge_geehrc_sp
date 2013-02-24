@@ -153,6 +153,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmmpod.so:system/lib/libmmmpod.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
+    vendor/lge/geeb_att_us/proprietary/lib/libmorpho_movie_stabilization.so:system/lib/libmorpho_movie_stabilization.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmorpho_noise_reduction.so:system/lib/libmorpho_noise_reduction.so \
     vendor/lge/geeb_att_us/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/lge/geeb_att_us/proprietary/lib/libnfc.so:system/lib/libnfc.so \
