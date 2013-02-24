@@ -145,6 +145,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/libmmcamera_frameproc.so:system/lib/libmmcamera_frameproc.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmcamera_hdr_lib.so:system/lib/libmmcamera_hdr_lib.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmcamera_image_stab.so:system/lib/libmmcamera_image_stab.so \
+    vendor/lge/geeb_att_us/proprietary/lib/libmmcamera_plugin.so:system/lib/libmmcamera_plugin.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmcamera_statsproc31.so:system/lib/libmmcamera_statsproc31.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
