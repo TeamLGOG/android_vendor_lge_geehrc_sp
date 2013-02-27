@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/lge/geeb_att_us/proprietary/bin/ks:system/bin/ks \
     vendor/lge/geeb_att_us/proprietary/bin/mm-audio-send-cal:system/bin/mm-audio-send-cal \
-    vendor/lge/geeb_att_us/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/lge/geeb_att_us/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/geeb_att_us/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/geeb_att_us/proprietary/bin/netmgrd:system/bin/netmgrd \
@@ -138,6 +137,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
     vendor/lge/geeb_att_us/proprietary/lib/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
     vendor/lge/geeb_att_us/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
+    vendor/lge/geeb_att_us/proprietary/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
+    vendor/lge/geeb_att_us/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
+    vendor/lge/geeb_att_us/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
     vendor/lge/geeb_att_us/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmercury.so:system/lib/libmercury.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
@@ -154,7 +156,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmmpod.so:system/lib/libmmmpod.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
-    vendor/lge/geeb_att_us/proprietary/lib/libmorpho_movie_stabilization.so:system/lib/libmorpho_movie_stabilization.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmorpho_noise_reduction.so:system/lib/libmorpho_noise_reduction.so \
     vendor/lge/geeb_att_us/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
     vendor/lge/geeb_att_us/proprietary/lib/libnfc.so:system/lib/libnfc.so \
