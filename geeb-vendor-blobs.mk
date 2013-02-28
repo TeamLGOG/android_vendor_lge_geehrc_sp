@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/lge/geeb_att_us/proprietary/bin/ks:system/bin/ks \
     vendor/lge/geeb_att_us/proprietary/bin/mm-audio-send-cal:system/bin/mm-audio-send-cal \
-    vendor/lge/geeb_att_us/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/lge/geeb_att_us/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/lge/geeb_att_us/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/geeb_att_us/proprietary/bin/netmgrd:system/bin/netmgrd \
@@ -78,7 +77,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/hw/lights.msm8960.so:system/lib/hw/lights.msm8960.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/nfc.default.so:system/lib/hw/nfc.default.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
-    vendor/lge/geeb_att_us/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/lge/geeb_att_us/proprietary/lib/libAKM.so:system/lib/libAKM.so \
     vendor/lge/geeb_att_us/proprietary/lib/libalsautils.so:system/lib/libalsautils.so \
     vendor/lge/geeb_att_us/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
