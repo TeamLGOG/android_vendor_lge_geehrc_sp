@@ -159,8 +159,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
     vendor/lge/geehrc_sp/proprietary/lib/libmorpho_noise_reduction.so:system/lib/libmorpho_noise_reduction.so \
     vendor/lge/geehrc_sp/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
-    vendor/lge/geehrc_sp/proprietary/lib/libnfc.so:system/lib/libnfc.so \
-    vendor/lge/geehrc_sp/proprietary/lib/libnfc_ndef.so:system/lib/libnfc_ndef.so \
     vendor/lge/geehrc_sp/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/lge/geehrc_sp/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
     vendor/lge/geehrc_sp/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
