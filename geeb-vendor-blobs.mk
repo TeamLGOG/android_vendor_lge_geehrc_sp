@@ -42,8 +42,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/bin/radish:system/bin/radish \
     vendor/lge/geeb_att_us/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/geeb_att_us/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
-    vendor/lge/geeb_att_us/proprietary/bin/sns_dsps_tc0001:system/bin/sns_dsps_tc0001 \
-    vendor/lge/geeb_att_us/proprietary/bin/sns_cm_conc_test:system/bin/sns_cm_conc_test \
     vendor/lge/geeb_att_us/proprietary/bin/thermald:system/bin/thermald \
     vendor/lge/geeb_att_us/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lge/geeb_att_us/proprietary/bin/usbhub:system/bin/usbhub \
@@ -182,7 +180,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/libsc-a3xx.so:system/lib/libsc-a3xx.so \
     vendor/lge/geeb_att_us/proprietary/lib/libsensor1.so:system/lib/libsensor1.so \
     vendor/lge/geeb_att_us/proprietary/lib/libsensor_reg.so:system/lib/libsensor_reg.so \
-    vendor/lge/geeb_att_us/proprietary/lib/libsensor_test.so:system/lib/libsensor_test.so \
     vendor/lge/geeb_att_us/proprietary/lib/libsensor_user_cal.so:system/lib/libsensor_user_cal.so \
     vendor/lge/geeb_att_us/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
     vendor/lge/geeb_att_us/proprietary/lib/libxml.so:system/lib/libxml.so \
