@@ -18,7 +18,11 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/hw/camera.geeb.so:obj/lib/hw/camera.geeb.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/lights.msm8960.so:obj/lib/hw/lights.msm8960.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/nfc.default.so:obj/lib/hw/nfc.default.so \
-    vendor/lge/geeb_att_us/proprietary/lib/hw/sensors.msm8960.so:obj/lib/hw/sensors.msm8960.so
+    vendor/lge/geeb_att_us/proprietary/lib/hw/sensors.msm8960.so:obj/lib/hw/sensors.msm8960.so \
+    vendor/lge/geeb_att_us/proprietary/lib/libloc_adapter.so:obj/lib/libloc_adapter.so \
+    vendor/lge/geeb_att_us/proprietary/lib/libloc_api_v02.so:obj/lib/libloc_api_v02.so \
+    vendor/lge/geeb_att_us/proprietary/lib/libloc_eng.so:obj/lib/libloc_eng.so \
+    vendor/lge/geeb_att_us/proprietary/lib/libloc_ext.so:obj/lib/libloc_ext.so
 
 # All the blobs necessary for geeb_att_us
 PRODUCT_COPY_FILES += \
@@ -135,7 +139,10 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
     vendor/lge/geeb_att_us/proprietary/lib/libllvm-a3xx.so:system/lib/libllvm-a3xx.so \
     vendor/lge/geeb_att_us/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
+    vendor/lge/geeb_att_us/proprietary/lib/libloc_adapter.so:system/lib/libloc_adapter.so \
     vendor/lge/geeb_att_us/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/lge/geeb_att_us/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
+    vendor/lge/geeb_att_us/proprietary/lib/libloc_ext.so:system/lib/libloc_ext.so
     vendor/lge/geeb_att_us/proprietary/lib/libmercury.so:system/lib/libmercury.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
