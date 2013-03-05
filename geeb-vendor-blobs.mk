@@ -16,6 +16,8 @@
 
 PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/hw/camera.geeb.so:obj/lib/hw/camera.geeb.so \
+    vendor/lge/geeb_att_us/proprietary/lib/hw/gps.default.so:obj/lib/hw/gps.default.so \
+    vendor/lge/geeb_att_us/proprietary/lib/hw/gps.default.so:obj/lib/hw/gps.msm8960.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/lights.msm8960.so:obj/lib/hw/lights.msm8960.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/nfc.default.so:obj/lib/hw/nfc.default.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/sensors.msm8960.so:obj/lib/hw/sensors.msm8960.so \
@@ -76,6 +78,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
     vendor/lge/geeb_att_us/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/camera.geeb.so:system/lib/hw/camera.geeb.so \
+    vendor/lge/geeb_att_us/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+    vendor/lge/geeb_att_us/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.msm8960.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/lights.msm8960.so:system/lib/hw/lights.msm8960.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/nfc.default.so:system/lib/hw/nfc.default.so \
     vendor/lge/geeb_att_us/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
