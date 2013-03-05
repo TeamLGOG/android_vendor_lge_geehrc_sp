@@ -77,6 +77,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
     vendor/lge/geeb_att_us/proprietary/lib/libAKM.so:system/lib/libAKM.so \
     vendor/lge/geeb_att_us/proprietary/lib/libalsautils.so:system/lib/libalsautils.so \
+    vendor/lge/geeb_att_us/proprietary/lib/libalsautils.so:system/lib/libalsautils.so \
     vendor/lge/geeb_att_us/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/lge/geeb_att_us/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
     vendor/lge/geeb_att_us/proprietary/lib/libaudioparsers.so:system/lib/libaudioparsers.so \
