@@ -19,7 +19,13 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geehrc_sp/proprietary/lib/hw/gestures.msm8960.so:obj/lib/hw/gestures.msm8960.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/lights.msm8960.so:obj/lib/hw/lights.msm8960.so \
     vendor/lge/geehrc_sp/proprietary/lib/hw/nfc.default.so:obj/lib/hw/nfc.default.so \
-    vendor/lge/geehrc_sp/proprietary/lib/hw/sensors.msm8960.so:obj/lib/hw/sensors.msm8960.so
+    vendor/lge/geehrc_sp/proprietary/lib/hw/sensors.msm8960.so:obj/lib/hw/sensors.msm8960.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libloc_adapter.so:obj/lib/libloc_adapter.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libloc_api_v02.so:obj/lib/libloc_api_v02.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libloc_eng.so:obj/lib/libloc_eng.so \
+    vendor/lge/geehrc_sp/proprietary/lib/libloc_ext.so:obj/lib/libloc_ext.so
+
+
 
 # All the blobs necessary for geehrc_sp
 PRODUCT_COPY_FILES += \
