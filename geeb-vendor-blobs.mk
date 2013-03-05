@@ -142,7 +142,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/libloc_adapter.so:system/lib/libloc_adapter.so \
     vendor/lge/geeb_att_us/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/lge/geeb_att_us/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
-    vendor/lge/geeb_att_us/proprietary/lib/libloc_ext.so:system/lib/libloc_ext.so
+    vendor/lge/geeb_att_us/proprietary/lib/libloc_ext.so:system/lib/libloc_ext.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmercury.so:system/lib/libmercury.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
