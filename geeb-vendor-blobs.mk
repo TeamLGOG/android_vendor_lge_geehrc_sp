@@ -165,8 +165,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/geeb_att_us/proprietary/lib/libmorpho_movie_stabilization.so:system/lib/libmorpho_movie_stabilization.so \
     vendor/lge/geeb_att_us/proprietary/lib/libmorpho_noise_reduction.so:system/lib/libmorpho_noise_reduction.so \
     vendor/lge/geeb_att_us/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
-    vendor/lge/geeb_att_us/proprietary/lib/libnfc.so:system/lib/libnfc.so \
-    vendor/lge/geeb_att_us/proprietary/lib/libnfc_ndef.so:system/lib/libnfc_ndef.so \
     vendor/lge/geeb_att_us/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/lge/geeb_att_us/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
     vendor/lge/geeb_att_us/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
